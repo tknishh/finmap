@@ -1,0 +1,10 @@
+chromadb
+streamlit
+PyPDF2
+pandas
+textract
+langchain
+langchain-community
+openpyxl
+openai
+tiktoken
